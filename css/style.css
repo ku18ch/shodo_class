@@ -142,7 +142,7 @@ h2 {
 }
 
 .aboutus-img {
-  background-image: url(./img/aboutus.jpg);
+  background-image: url(../img/aboutus.jpg);
   margin-top: 20px;
   position: relative;
 }
@@ -176,7 +176,7 @@ h4 {
 }
 
 .class-img {
-  background-image: url(img/lot.jpg);
+  background-image: url(../img/lot.jpg);
   margin: 50px 0 30px 0;
   position: relative;
 }
@@ -236,7 +236,7 @@ h5 {
 }
 
 .teacher-img {
-  background-image: url(./img/teacher.jpg);
+  background-image: url(../img/teacher.jpg);
   margin: 100px 0 30px 0;
   position: relative;
 }
